@@ -27,6 +27,10 @@ h1, h2, h3, h4 {
     letter-spacing: 2px;
 }
 
+h2{
+    font-style: italic;
+}
+
 .carousel-inner img {
     width: 100%;
     height: 90%;
@@ -71,6 +75,7 @@ tbody{
     width: 100px;
     vertical-align: bottom;
     cursor: pointer;
+    cursor: unset;
 }
 
 small {
@@ -85,6 +90,7 @@ small {
 
 .novenykep{
     font-style: italic;
+    text-align: center;
 }
 
 .novenykep img{
